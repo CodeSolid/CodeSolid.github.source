@@ -25,7 +25,8 @@ post:
   template: templates/_post.txt
   extension: md
 
-editor: C:\apps\SublimeText3\sublime_text.exe
+#editor: C:\apps\SublimeText3\sublime_text.exe
+editor:	subl
 
 defaults:
   -
