@@ -47,6 +47,13 @@ namespace :build do
   end
 end
 
+desc "Test"
+task :test do
+  puts("\n## Moving to master directory?")
+  Dir.chdir("../master")
+  File.unlink("hello.txt")  
+end
+
 desc "Commit & push source branch"
 task :push_source do
   puts "\n## Staging modified files in source"
@@ -67,10 +74,10 @@ task :push_master do
 
 
   puts("Switching to master directory")
-  system("pushd ../master")
-
-  puts("Removing extra Rakefile (hack alert)")
-  system("rm Rakefile")
+  Dir.chdir("../master")
+  
+  #puts("Removing extra Rakefile (hack alert)")
+  #system("rm hello.txt")
 
   puts "\n## Staging modified files in master"
   status = system("git add -A .")
@@ -82,7 +89,7 @@ task :push_master do
   puts "\n## Pushing master"
   status = system("git push")
   puts status ? "Success" : "Failed"
-  system("popd")
+  Dir.chdir("../source")
 
 end
 
