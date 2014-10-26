@@ -2,6 +2,7 @@
 author: John Lockwood
 layout: post
 title: "Yet another attempt to make Github Pages as Easy as WordPress" 
+excerpt: Another test post.  Are you kidding me?  I wouldn't read this drivel if I were you.  I know it's going to say "Read more..." in a minute, but I would just flat out ignore that.  Seriously.
 categories:
 - Miscellaneous
 ---
