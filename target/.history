@@ -1,0 +1,224 @@
+inspect sample-c
+:reset
+:reload
+:help
+:q
+q
+:q
+inspect sample-c
+inspect sample-a
+inspect sample-d
+inspect sampleKeyD
+inspect sample-a
+inspect sample-c
+inspect sample-b
+clear
+help
+inspect sample-b
+reload
+hello
+tasks
+help hello
+reload
+taks
+tasks
+help tasks
+tasks -v
+help tasks
+reload
+helloAgain
+reload
+helloAgain
+hello
+reload
+helloAgain
+reload
+hello
+helloAgain
+reload
+hello
+helloAgain
+help helloAgain
+help hello
+reload
+hello2
+hello
+reload
+hello
+hey
+reload
+hey
+hello
+reload
+hello
+hey
+reload
+hello
+jello
+reload
+hello
+jello
+reload
+jello
+hello
+reload
+hello
+quit
+hello
+jello
+clean
+reload
+hello
+jello
+:qa
+:q
+:q!
+Re
+re
+reload
+hello
+which hello
+help hello
+help jello
+reload
+hello
+reload
+hello
+reload
+hello
+jello
+reload
+jello
+reload
+jello
+reload
+jello
+hello
+helloAgain
+reload
+hello
+helloAgain
+reload
+hello
+helloAgain
+hello
+reload
+hello
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+hello
+helloAgain
+quit
+:q
+clean
+helloAgain
+inspect helloAgain
+clean
+reload
+helloAgain
+reload
+hello
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+hello
+reload
+helloAgain
+reload
+helloAgain
+reload
+r
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+reload
+tasks
+reload
+tasks
+reload
+helloAgain
+reload
+helloAgain
+reload
+helloAgain
+hello
+helloAgain
+reload
+helloSBT
+hello
+helloAgain
+reload
+helloAgainSBT
+reload
+foo
+reload
+foo
+reload
+foo
+reload
+foo
+reload
+foo
+hi
+bar
+reload
+bar
+reload
+name
+scalaVersion
+inspect foo
+inspect bar
+inspect hi
+inspect helloSBT
+inspect helloAgainSBt
+inspect helloAgainSBT
+inpsect test:full-classpath
+inspect test:full-classpath
+ test:full-classpath
+load
+reload
+inspect name
+reload
+name
+reload
+name
+reload
+name
+quit
+reload
+helloAgainSBT
+reload
+helloAgainSBT
+reload
+one
+oneTask
+reload
+one
+reload
+one
+hello
+two
+twoTask
+one
+reload
+one
+two
+three
+reload
+countTheDependencies
