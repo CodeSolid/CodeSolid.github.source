@@ -1,7 +1,7 @@
 ---
 layout:    default
 permalink: /
-title:     Java Contractor
+title:     Scala and Java Developer
 ---
 <style type="text/css">
 .nosotros {
@@ -16,8 +16,8 @@ title:     Java Contractor
 </style>
 
  <div class=jumbotron>
- 	<h1>Full Stack</h1> 
- 	<p class=lead>We do full stack development on SQL and NOSQL, Java Spring, and Javascript, JQuery and Angular.js.</p> <p><a class="btn btn-lg btn-success" href="/contact"><span class="glyphicon glyphicon-hand-right"></span>&nbsp;&nbsp;Contact Us</a>
+ 	<h1>Java and Scala</h1> 
+ 	<p class=lead>Pour 20 years of software experience onto your project with one phone call.</p> <p><a class="btn btn-lg btn-success" href="/contact"><span class="glyphicon glyphicon-hand-right"></span>&nbsp;&nbsp;Contact Us</a>
  	</p> 
  </div>
  <div class=row>
