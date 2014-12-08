@@ -26,7 +26,8 @@ title:     Scala Developer
 		In 2014, we began our investing time and money to foster an online community of congenial Scala developers at [ScalaUserGroup.org](http://scalausergroup.org).<p>ScalaUserGroup.org, _"the cloud-based User Group that you [eat with a fork](http://github.com/CodeSolid/ScalaUserGroup)!"_</p>
  	</div> 
  	<div class=col-md-4><h3>Scala for Java Developers</h3><p>Our code and slides for our Scala for Java Developers
- 	presentation for the Sacramento Java User's Group are [available on github](http://github.com/CodeSolid/).</div>
+ 	presentation for the Sacramento Java User's Group are [available on github](http://github.com/CodeSolid/).
+ 	For ease of downloading, the slides are also availble in [PDF format](http://codesolid.com/ScalaDecember2014.pdf).</a></div>
  	<div class=col-md-4><h3>Other Stomping Grounds</h3>
  	<p>The green button is just too awesome to click? I know, right? Sometimes it scares me, too! For something less intimdating, check out these useless hangouts:</p>
  	<p>[Twitter](http://www.twitter.com/JohnLockwood)</p>
