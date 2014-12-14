@@ -4,7 +4,6 @@ layout: post
 title: "Post-mortem of our first ScalaUserGroup.org meeting" 
 excerpt: "What if we held a Scala User Group and nobody came?  Well, in that case, we'd have more time to write some code!"
 description:"What if we held a Scala User Group and nobody came?  Well, in that case, we'd have more time to write some code!"
-description:"What if we held a Scala User Group and nobody came?  Well, in that case, we'd have more time to write some code!"
 categories:
 - Miscellaneous
 - Scala
