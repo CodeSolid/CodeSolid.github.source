@@ -3,8 +3,12 @@ author: John Lockwood
 layout: post
 title: "Post-mortem of our first ScalaUserGroup.org meeting" 
 excerpt: "What if we held a Scala User Group and nobody came?  Well, in that case, we'd have more time to write some code!"
+
+description:"What if we held a Scala User Group and nobody came?  Well, in that case, we'd have more time to write some code!"
 categories:
 - Miscellaneous
+- Scala
+- Scala Community
 ---
 
 Our first meeting of [ScalaUserGroup.org](http://ScalaUserGroup.org) was a very close knit group, inasmuch as it featured me as speaker, and me in the audience. I kept the video of me and the audience on from a few minutes before our appointed time until a half hour afterward. For the first ten minutes or so I said things like "Welcome" (at first) followed by "Is anyone there?" and the like. Then after a bit I turned on some Christmas music. Around 9:20 I said I'd be taking off at 9:30 if no one showed up. For the latter part of my half hour and beyond, I had the fun of standing up a preliminary restful API as the entry point of a Scala and akka based third party ordering system [proof of concept](/asynchronous-order-processing-in-play/) I wanted to work on.
