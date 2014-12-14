@@ -2,9 +2,9 @@ destination: ../master
 
 name: CodeSolid
 
-description:  Test Automation and Software Development Blog
+description:  Scala Development
 
-meta_description: "Bring twenty years of software development experience to your next Java project.  Web services and Spring full stack development.  On-site and off-site rates available."
+meta_description: "Wherein my modest successes as a coder and spectacular failures as a developer are documented in gruesome detail."
 
 markdown: redcarpet
 
