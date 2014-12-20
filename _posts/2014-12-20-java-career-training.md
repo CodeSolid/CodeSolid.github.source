@@ -19,7 +19,7 @@ as a programmer."
 
 So if experience is the most important thing you can bring to the interview, and you don't have experience, what do you need to do?  You need to give yourself the experience.  How do you do that?  Well, you do it by programming. You learned to walk by crawling and pulling yourself up on the edge of a couch and falling down, and before you know it your poor tired mom was chasing you all over the place and complaining to her friends that you had too much energy.
 
-Did the fastest professional athlete you can think of learn to walk the same way you did? Sure they did. Now, did they get to be professionals athletes by becoming "Certfied Athletes?" Of course not, in athletics the very idea sounds ridiculous. Professional athletes get to be professional athletes by first becoming great amateur athletes, and they get to be great amateur athletes by practicing a lot. They want it, and they have coaches who help and push and encourage them, and above all they practice a lot.
+Did the fastest professional athlete you can think of learn to walk the same way you did? Sure they did. Now, did they get to be professionals athletes by becoming "Certified Athletes?" Of course not, in athletics the very idea sounds ridiculous. Professional athletes get to be professional athletes by first becoming great amateur athletes, and they get to be great amateur athletes by practicing a lot. They want it, and they have coaches who help and push and encourage them, and above all they practice a lot.
 
 My first few programming resume had a line on it that went something like this:
 
